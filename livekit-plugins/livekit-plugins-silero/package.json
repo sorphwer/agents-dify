@@ -1,5 +1,8 @@
 {
   "name": "livekit-plugins-silero",
   "private": true,
-  "version": "0.7.2"
+  "version": "0.7.2",
+  "dependencies": {
+    "livekit-plugins-silero": "file:"
+  }
 }

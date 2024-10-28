@@ -1,6 +1,8 @@
 {
     "name": "livekit-plugins-playht",
     "private": true,
-    "version": "1.0.0"
-  }
-  
+    "version": "1.0.0",
+    "dependencies": {
+        "livekit-plugins-playht": "file:"
+    }
+}

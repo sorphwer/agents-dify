@@ -1,5 +1,8 @@
 {
   "name": "livekit-plugins-rag",
   "private": true,
-  "version": "0.2.2"
+  "version": "0.2.2",
+  "dependencies": {
+    "livekit-plugins-rag": "file:"
+  }
 }

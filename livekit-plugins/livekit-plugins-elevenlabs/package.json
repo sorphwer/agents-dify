@@ -1,5 +1,8 @@
 {
   "name": "livekit-plugins-elevenlabs",
   "private": true,
-  "version": "0.7.5"
+  "version": "0.7.5",
+  "dependencies": {
+    "livekit-plugins-elevenlabs": "file:"
+  }
 }

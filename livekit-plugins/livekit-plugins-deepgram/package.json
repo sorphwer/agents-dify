@@ -1,5 +1,8 @@
 {
   "name": "livekit-plugins-deepgram",
   "private": true,
-  "version": "0.6.8"
+  "version": "0.6.8",
+  "dependencies": {
+    "livekit-plugins-deepgram": "file:"
+  }
 }

@@ -1,5 +1,8 @@
 {
   "name": "livekit-plugins-llama-index",
   "private": true,
-  "version": "0.1.1"
+  "version": "0.1.1",
+  "dependencies": {
+    "livekit-plugins-llama-index": "file:"
+  }
 }

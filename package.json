@@ -15,5 +15,7 @@
     "node": ">= 18"
   },
   "packageManager": "pnpm@9.2.0",
-  "dependencies": {}
+  "dependencies": {
+    "@livekit/agents-py-monorepo": "file:"
+  }
 }
